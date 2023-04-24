@@ -1,19 +1,15 @@
 {
-  "name": "meme_generator",
+  "name": "meme-generator",
   "version": "1.0.0",
-  "description": "generates new meme",
-  "main": "script.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Debatreya/Meme_Generator.git"
-  },
-  "author": "Debatreya",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Debatreya/Meme_Generator/issues"
-  },
-  "homepage": "https://github.com/Debatreya/Meme_Generator#readme"
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
